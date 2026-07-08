@@ -1,0 +1,28 @@
+# Student Grade Management System
+
+## Project Description
+This project is a simple Student Grade Management System developed in C++. It uses Object-Oriented Programming (OOP) concepts and the Standard Template Library (STL) to store and manage student records. The program saves the records in a text file and displays them on the screen.
+
+## Features
+- Uses Class and Objects
+- Uses STL Vector
+- Stores student names and marks
+- Saves records to a file (students.txt)
+- Displays all student records
+
+## Files Included
+- student_grade_system.cpp
+- students.txt
+- README.md
+
+## How to Run
+1. Open `student_grade_system.cpp` in Dev-C++.
+2. Compile and Run the program.
+3. The program will display student records and save them to `students.txt`.
+
+## Sample Output
+```
+Student Records
+----------------
+Name: Rahul | Marks: 85
+Name: Priya | Marks
